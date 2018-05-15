@@ -1,3 +1,5 @@
 # Social-network-query-language-for-improved-privacy-granularity
-## lund ho ma
-* meeee
+## Install SQLyog and Netbeans
+* copy jar file to netbeans
+* add source file to Sql yog
+
